@@ -1,0 +1,93 @@
+body {
+	background:#edf3fc;
+	background-image:url(../img/bg.jpg);
+	background-repeat:repeat-x;
+	background-position:top center;
+	background-attachment:scroll;
+	font-family:'Arial';
+	font-size:12px;
+	color:#333;
+}
+
+table{
+	font-family:'Arial';
+	font-size:12px;
+}
+
+#container{
+	width:900px;
+	height:0 auto;
+	
+}
+
+#background{
+	margin-top:30px;
+	width:720px;
+	height:485px;
+	background-image:url(../img/powerforce1.jpg);
+}
+
+#menu_utama{
+	width:auto;
+	height:45px;
+	color:#CCC;
+	text-align:left;
+	padding-top:5px;
+}
+
+#welcome{
+	width:500px;
+	font-size:20px;
+	font-weight:bold;
+	padding-top:30px;
+}
+
+#tombol_cetak{
+	width:0 auto;
+	height:0 auto;
+	background-color:#333;
+	color:#CCC;
+	float:right;
+	padding:7px 7px 7px 7px;
+	margin:25px 55px 0 0;
+}
+
+#tombol_pengunjung{
+	width:0 auto;
+	height:0 auto;
+	background-color:#333;
+	color:#CCC;
+	float:right;
+	padding:7px 7px 7px 7px;
+	margin:25px 0 0 0;
+}
+
+#isi_data{
+	width:0 auto;
+	height:0 auto;
+	margin-top:30px;
+}
+
+#tampil_data{
+	width:0 auto;
+	height:0 auto;
+	margin-top:50px;
+}
+
+.kotak{
+	width:250px;
+}
+
+.garis{
+	border:1px solid #CCC;
+}
+
+a {
+	text-decoration:none;
+	color:#CCC;
+}
+
+a:hover{
+	text-decoration:underline;
+	color:#CCC;
+}
